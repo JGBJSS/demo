@@ -7,3 +7,5 @@ This is a simple Readme file
 ## Heading 3
 
 More text
+
+Git Branching, this is all done on it own branch. 
