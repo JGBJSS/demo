@@ -8,4 +8,4 @@ This is a simple Readme file
 
 More text
 
-Git Branching, this is all done on it own branch. 
+This is bound to cause trouble!
