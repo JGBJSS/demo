@@ -8,6 +8,8 @@ This is a simple Readme file
 
 More text
 
+Again I hope this isn't a problem!
+
 <<<<<<< HEAD
 I hope this isn't much of a problem 
 =======
