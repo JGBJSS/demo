@@ -6,6 +6,4 @@ This is a simple Readme file
 
 ## Heading 3
 
-More text
-
-
+I hope this isn't much of a problem
