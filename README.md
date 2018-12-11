@@ -6,6 +6,4 @@ This is a simple Readme file
 
 ## Heading 3
 
-More text
-
-
+This is bound to cause trouble!
